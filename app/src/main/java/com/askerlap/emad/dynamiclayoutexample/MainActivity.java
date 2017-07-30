@@ -1,16 +1,17 @@
 package com.askerlap.emad.dynamiclayoutexample;
 
 import android.os.Bundle;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements SwipeRefreshLayout.OnRefreshListener {
     private LinearLayout parentContainer;
-
-
+    private SwipeRefreshLayout mSwipeRefreshLayout;
+    int x = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,14 +19,28 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         parentContainer = (LinearLayout)findViewById(R.id.main_container);
+        mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
-        createDynamicLayout(7,parentContainer);
+        mSwipeRefreshLayout.setOnRefreshListener(this);
+
+        mSwipeRefreshLayout.post(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        mSwipeRefreshLayout.setRefreshing(true);
+
+                                        createDynamicLayout(7,parentContainer);
+                                    }
+                                }
+        );
 
 
     }
 
 
     private void createDynamicLayout (int acual_size , LinearLayout parent) {
+
+        mSwipeRefreshLayout.setRefreshing(true);
+
         int HALF_SIZE , INSIDE_LOOP_SIZE;
         if ( acual_size %2 == 0){
             HALF_SIZE = acual_size / 2 ;
@@ -64,6 +79,14 @@ public class MainActivity extends AppCompatActivity {
 
             }
             parent.addView(childLayout[i]);
+            mSwipeRefreshLayout.setRefreshing(false);
         }
+    }
+
+    @Override
+    public void onRefresh() {
+        x++;
+        parentContainer.removeAllViews();
+        createDynamicLayout(x,parentContainer);
     }
 }
