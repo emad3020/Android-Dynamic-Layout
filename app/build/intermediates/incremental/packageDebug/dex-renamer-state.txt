@@ -1,0 +1,4 @@
+#Sun Jul 30 10:58:57 EET 2017
+base.0=/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

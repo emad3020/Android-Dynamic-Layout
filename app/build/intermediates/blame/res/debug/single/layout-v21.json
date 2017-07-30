@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+application
+ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/88fc709dd2433b96fc47c2756b3e500dde78f467/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/2a8fe7d6bd0575fee5bc2b4a5337ab3fdc22f4d6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/987f128e503e352d80a336b830d495ed276d5e7a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/8cdc4e1dd09f31611e2ce540f0f311f997e9e1f6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/b9457265868d74bc07bf51a2e9e6e746a5d34228/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/3ca823dcc3fbbf0d0f06ecd1d7134ecc52f7b4e2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/38d59dcdc0a43d25443e8d9162810f4d87149483/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/7d15e06935290534cac3018fdbb700ceeb2c8201/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/a01ccab3a63867cea4129012466a5f69120f10fa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/b44ece50ca7c900054705282e126aaeeb5404bff/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.askerlap.emad.dynamiclayoutexample.MainActivity
+ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/88fc709dd2433b96fc47c2756b3e500dde78f467/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/2a8fe7d6bd0575fee5bc2b4a5337ab3fdc22f4d6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/987f128e503e352d80a336b830d495ed276d5e7a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /root/.android/build-cache/407265efee7700b0e6ad0e93b172e241a5ef75c9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/8cdc4e1dd09f31611e2ce540f0f311f997e9e1f6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/b9457265868d74bc07bf51a2e9e6e746a5d34228/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/3ca823dcc3fbbf0d0f06ecd1d7134ecc52f7b4e2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/38d59dcdc0a43d25443e8d9162810f4d87149483/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/7d15e06935290534cac3018fdbb700ceeb2c8201/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/a01ccab3a63867cea4129012466a5f69120f10fa/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/b44ece50ca7c900054705282e126aaeeb5404bff/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+		INJECTED from /media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/2a8fe7d6bd0575fee5bc2b4a5337ab3fdc22f4d6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/987f128e503e352d80a336b830d495ed276d5e7a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /root/.android/build-cache/407265efee7700b0e6ad0e93b172e241a5ef75c9/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /root/.android/build-cache/8cdc4e1dd09f31611e2ce540f0f311f997e9e1f6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/b9457265868d74bc07bf51a2e9e6e746a5d34228/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/3ca823dcc3fbbf0d0f06ecd1d7134ecc52f7b4e2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/38d59dcdc0a43d25443e8d9162810f4d87149483/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/7d15e06935290534cac3018fdbb700ceeb2c8201/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/a01ccab3a63867cea4129012466a5f69120f10fa/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/b44ece50ca7c900054705282e126aaeeb5404bff/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/AndroidManifest.xml:26:9-47

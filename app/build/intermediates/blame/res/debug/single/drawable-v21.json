@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/root/.android/build-cache/46493b8cabb8546c57c0f3120eeae3758b53b129/output/res/drawable-v21/design_password_eye.xml"
+    }
+]

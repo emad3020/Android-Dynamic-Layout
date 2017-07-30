@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/media/emadasker/01D2E29A3D647380/Emad/WorkPlace/Android-Dynamic-Layout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/a5328fb1b266d9d407d86bd7f606bdff863870a3/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
