@@ -43,20 +43,20 @@ public class MainActivity extends AppCompatActivity {
 
 
             if ( i == HALF_SIZE-1 && acual_size %2 == 1){
-                INSIDE_LOOP_SIZE = i+1 ;
+                INSIDE_LOOP_SIZE = (i*2)+1 ;
             } else {
-                INSIDE_LOOP_SIZE = i+2;
+                INSIDE_LOOP_SIZE = (i*2)+2;
             }
 
-            for ( int j=i ; j< INSIDE_LOOP_SIZE ; j++){
+            for ( int j=i*2 ; j< INSIDE_LOOP_SIZE ; j++){
                 layoutParamses[j] = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,
                         ViewGroup.LayoutParams.WRAP_CONTENT);
-                layoutParamses[j].setMargins(8,8,8,8);
+                layoutParamses[j].setMargins(8,2,8,2);
                 layoutParamses[j].weight = 1;
                 childLayout[i].setLayoutParams(layoutParamses[j]);
 
                 textViews[j] = new TextView(this);
-                textViews[j].setText("hello from the other side of the world");
+                textViews[j].setText(j+"- hello from the other side of the world");
                 textViews[j].setPadding(10,10,10,10);
                 textViews[j].setBackgroundResource(R.drawable.background_border);
                 textViews[j].setLayoutParams(layoutParamses[j]);
